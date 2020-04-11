@@ -8,7 +8,7 @@ float
 * 自訂的積木
 */
 //% weight=100 color=#fcba03 icon="\uf0ad" block="Area"
-namespace areaCalculator {
+namespace AreaCalculator {
 //% blockId="areaOfRectangle"
 //% block="get the area of triangle:base: %base|height: %height| option:%myOpt"
 //% base.min=0 base.max=100 base.defl=0 height.min=0 height.max=100 height.defl=0
