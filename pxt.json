@@ -1,0 +1,15 @@
+{
+"name": "AreaCalculator",
+"version": "0.0.1",
+"description": "這是專為測試用micro.bit積木",
+"license": "MIT",
+"dependencies": {
+"core": "*"
+},
+"files": [
+"README.md",
+"main.ts",
+"_locales/zh-tw/AreaCalculator-strings.json"
+],
+"public": true
+}
